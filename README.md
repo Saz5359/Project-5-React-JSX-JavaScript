@@ -13,6 +13,8 @@ I am a gamer and love playing games so I wanted to create a game of my own since
 + This game was created using react
 + The game was created using  Create React App.
 + The user can restart the game.
+  
+App found here: https://saz5359.github.io/Hangman-app-react/
 
 ### Rules of The Game
 
